@@ -3,10 +3,10 @@
 #
 # UNCOMMENT THE HOSTS BELOW TO BLOCK EMUI UPDATES
 #
-#query.hicloud.com
-#configserver.platform.hicloud.com
-#update.dbankcdn.com
-#update-dre.platform.hicloud.com # Update Firmware
+query.hicloud.com
+configserver.platform.hicloud.com
+update.dbankcdn.com
+update-dre.platform.hicloud.com # Update Firmware
 # --------------------------------------------------
 
 achievement-dre.things.hicloud.com
